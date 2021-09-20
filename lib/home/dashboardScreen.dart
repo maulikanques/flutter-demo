@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'homePage.dart';
+import 'home_page.dart';
 
 class DashboardScreen extends StatelessWidget {
   @override
